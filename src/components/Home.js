@@ -6,8 +6,7 @@ const Home = () => {
       <div className="hero">
         <div className="card text-bg-dark border-0">
           <img
-            src="/assets/bg.jpg"
-            className="card-img"
+            src="https://img.freepik.com/free-photo/young-pretty-woman-holding-shopping-bags-smiling-excited-camera-buying-with-discounts-standing-ov_1258-118812.jpg?w=1060&t=st=1684391807~exp=1684392407~hmac=90393404eb5c6647d0530e4777e5be40e210b6a52c0c03b10e0cc569ffc57031"
             alt="Background"
             height="550px"
           />
